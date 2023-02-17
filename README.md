@@ -7,12 +7,12 @@ As a way to avoid feeling that I'm not moving forward, I've decided to create a 
 
 ### February 10th
 
-1. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-10-2023.md">Function Declarations vs Function Expressions</a>
-2. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-10-2023.md">IIFEs</a>
-3. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-10-2023.md">setTimeout()</a>
-4. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-10-2023.md">Scope chain vs Call stack</a>
-5. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-10-2023.md">Hoisting</a>
-6. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-10-2023.md">Primitives and objects</a>
+1. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-10-2023.md#1-function-declarations-vs-function-expressions">Function Declarations vs Function Expressions</a>
+2. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-10-2023.md#2-iifes">IIFEs</a>
+3. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-10-2023.md#3-settimeout">setTimeout()</a>
+4. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-10-2023.md#4-scope-chain-vs-call-stack">Scope chain vs Call stack</a>
+5. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-10-2023.md#5-hoisting">Hoisting</a>
+6. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-10-2023.md#6-primitives-and-objects">Primitives and objects</a>
 
 ### February 11th
 
