@@ -42,3 +42,9 @@ As a way to avoid feeling that I'm not moving forward, I've decided to create a 
 18. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-16-2023.md#1-clamp">clamp()</a>
 19. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-16-2023.md#2-enhanced--object-literals">Enhanced Object Literals</a>
 20. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-16-2023.md#3-objectkeys--objectvalues--objectentries">Object.keys / Object.values / Object.entries</a>
+
+
+### February 19th
+
+21. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-19-2023.md#1-set">Set()</a>
+22. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-19-2023.md#1-map">Map()</a>
