@@ -48,3 +48,12 @@ As a way to avoid feeling that I'm not moving forward, I've decided to create a 
 
 21. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-19-2023.md#1-set">Set()</a>
 22. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-19-2023.md#2-map">Map()</a>
+
+### February 21th
+
+23. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-21-2023.md#1-indexof--lastindexof">indexOf() / lastIndexOf()</a>
+24. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-21-2023.md#2-slice">slice()</a>
+25. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-21-2023.md#3-replace">replace()</a>
+26. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-21-2023.md#4-touppercase--tolowercase">tpUpperCase() / toLowerCase()</a>
+27. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-21-2023.md#5-includes">includes()</a>
+28. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-21-2023.md#6-startswith--endswith">startsWith() / endsWith()</a>
