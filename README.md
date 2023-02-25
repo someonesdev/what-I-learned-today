@@ -57,3 +57,11 @@ As a way to avoid feeling that I'm not moving forward, I've decided to create a 
 26. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-21-2023.md#4-touppercase--tolowercase">tpUpperCase() / toLowerCase()</a>
 27. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-21-2023.md#5-includes">includes()</a>
 28. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-21-2023.md#6-startswith--endswith">startsWith() / endsWith()</a>
+
+### February 23th
+
+29. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-23-2023.md#1-forEach">forEach()</a>
+
+### February 24th
+
+30. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-24-2023.md#1-map">map()</a>
