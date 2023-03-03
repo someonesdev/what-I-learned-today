@@ -70,3 +70,4 @@ As a way to avoid feeling that I'm not moving forward, I've decided to create a 
 
 31. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-27-2023.md#1-filter"> filter()</a>
 32. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-27-2023.md#2-find"> find()</a>
+33. <a href='https://github.com/someonesdev/what-I-learned-today/blob/main/02-27-2023.md#2-some">some()</a>
