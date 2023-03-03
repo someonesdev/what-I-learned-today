@@ -65,3 +65,7 @@ As a way to avoid feeling that I'm not moving forward, I've decided to create a 
 ### February 24th
 
 30. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-24-2023.md#1-map">map()</a>
+
+### February 27th
+
+31. <a href="https://github.com/someonesdev/what-I-learned-today/blob/main/02-27-2023.md#1-filter"> filter()</a>
